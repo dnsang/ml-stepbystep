@@ -1,6 +1,14 @@
-Learning ML step by step 
+# Self Machine Learning Project -  step by step
 
-step1: data preprocessing 
-step2: simple linear regression
-step3: multiple linear regression
-step4: Polynomial regression
+# Regression
+  - Simple Linear Regression
+  - Multiple Linear Regression
+  - Polynomial Regression
+  - SVR
+  - Decision Tree Regression
+  - Random Forest Regression
+# Classification
+# Clustering
+
+
+MIT
