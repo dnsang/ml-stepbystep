@@ -6,9 +6,6 @@ Created on Thu Jul 27 15:19:46 2017
 @author: zkidkid
 """
 
-import os
-os.chdir('/Users/zkidkid/data/working/zkidkid/machine-learning/course-ml-az/ml-a-z-handon/Polynomial_Regression')
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
